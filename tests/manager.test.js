@@ -7,7 +7,7 @@ it('Set office number', () => {
 });
 
 test("getRole() should return \"Manager\"", () => {
-    const testValue = "manager";
+    const testValue = "Manager";
     const e = new Manager("Ashby", 12, 'me@me.com', '2468');
     expect(e.getRole()).toBe(testValue);
 });
@@ -15,5 +15,5 @@ test("getRole() should return \"Manager\"", () => {
 test("get office number from officeNum()", () => {
     const testValue = "2468";
     const e = new Manager("Ashby", 12, 'me@me.com', testValue);
-    expect(e.getofficeNum()).toBe(testValue);
+    expect(e.getOfficeNum()).toBe(testValue);
 });
