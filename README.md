@@ -23,7 +23,7 @@ In the programs lib dir, use node to begin the program.  node script.js
 Ashby Blakely 
 
 ## Tutorial
-[Video Walkthrough](https://drive.google.com/file/d/1lCxqV2jz8PY1MmRP5pMHFgsZ69DqRraI/preview" width="640" height="480)
+[Video Walkthrough](https://drive.google.com/file/d/1lCxqV2jz8PY1MmRP5pMHFgsZ69DqRraI/preview)
 
 ## Screenshot
 ![screenshot](./img/teamprofile.JPG)
