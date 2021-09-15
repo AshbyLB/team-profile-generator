@@ -12,7 +12,7 @@ test("getRole() should return \"Engineer\"", () => {
     expect(e.getRole()).toBe(testValue);
 });
 
-test("get username from gitHub", () => {
+test("get username from gitHub()", () => {
     const testValue = "AshbyLB";
     const e = new Engineer("Ashby", 12, 'me@me.com', testValue);
     expect(e.getGitHub()).toBe(testValue);
